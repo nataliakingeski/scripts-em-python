@@ -1,0 +1,5 @@
+n=input('digite algo')
+print('tem espaço? ', n.isspace())
+print('é alfanumerico?', n.isalnum())
+print('é alfabetico? ', n.isalpha())
+print('é decimal? ', n.isdecimal())
